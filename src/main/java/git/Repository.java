@@ -2,6 +2,8 @@ package git;
 
 import git.objects.Commit;
 
+import java.util.ArrayList;
+
 /**
  *
  */
@@ -10,7 +12,6 @@ public class Repository {
     public HEAD head;
 
     public void init() {
-
     }
 
     public void gitClone() {
