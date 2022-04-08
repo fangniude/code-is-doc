@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="调度规则配置"
+    id="id-8db9cee63fe34356a3958c78c59c5f64">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-7ebe962233b14929a30df8ab4db1ce0d.xml#id-7ebe962233b14929a30df8ab4db1ce0d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-7acf4bafb9624328b33d95acc0108b8c.xml#id-7acf4bafb9624328b33d95acc0108b8c"/>
+</archimate:AssociationRelationship>

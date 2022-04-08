@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="包含"
+    id="id-954e740c30684117ab25f322b6bbe64b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6b1439eb61a84f9b895271b45367ff30.xml#id-6b1439eb61a84f9b895271b45367ff30"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-a9b268440ba7454387639cacb05c15ec.xml#id-a9b268440ba7454387639cacb05c15ec"/>
+</archimate:AssociationRelationship>

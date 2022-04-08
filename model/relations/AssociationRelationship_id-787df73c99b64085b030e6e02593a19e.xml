@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="定时触发规则"
+    id="id-787df73c99b64085b030e6e02593a19e">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f94ea7598ebb4710848cf74f51dc5ff1.xml#id-f94ea7598ebb4710848cf74f51dc5ff1"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-c88c7da8cef749a5bb73ca26a8455224.xml#id-c88c7da8cef749a5bb73ca26a8455224"/>
+</archimate:AssociationRelationship>

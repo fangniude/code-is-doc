@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="触发执行"
+    id="id-6cdf800ecec84d369fd86d703f169d3c">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-7acf4bafb9624328b33d95acc0108b8c.xml#id-7acf4bafb9624328b33d95acc0108b8c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-133491c194574be1a4755fe5cdb9af3c.xml#id-133491c194574be1a4755fe5cdb9af3c"/>
+</archimate:AssociationRelationship>

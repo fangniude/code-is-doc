@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="数据库连接、表、血缘等信息"
+    id="id-762f874a36354ea4aaee894d4d3db3d3">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-e228e97f33c3459398b5a31f7acc6a2c.xml#id-e228e97f33c3459398b5a31f7acc6a2c"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-84adb3a74d84472ea027278fa1a8d6f3.xml#id-84adb3a74d84472ea027278fa1a8d6f3"/>
+</archimate:AssociationRelationship>

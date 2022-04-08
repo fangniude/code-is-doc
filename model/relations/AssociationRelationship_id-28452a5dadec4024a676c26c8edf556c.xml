@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="配置"
+    id="id-28452a5dadec4024a676c26c8edf556c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6b646a65cc214b22aca523acac18afff.xml#id-6b646a65cc214b22aca523acac18afff"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-a9b268440ba7454387639cacb05c15ec.xml#id-a9b268440ba7454387639cacb05c15ec"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="流程执行器"
+    id="id-56be7e60ef2d4b4d86d2dcae61d79995"
+    documentation="DAG">
+  <properties
+      key="DAG&lt;Step>"
+      value="val"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="查询"
+    id="id-be5305ce5d834e36899f3c790594e7e0">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-5ab122459daf42e38dfb923bcfc257d8.xml#id-5ab122459daf42e38dfb923bcfc257d8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-57cb2e5e0fe14bacbe8da4b9d09ca5db.xml#id-57cb2e5e0fe14bacbe8da4b9d09ca5db"/>
+</archimate:AssociationRelationship>

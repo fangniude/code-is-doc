@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="生成"
+    id="id-27b449fbf4bf4ab79d157fb06be0c3d1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-fe4e073d4f7c41bfb78764f9e30563ab.xml#id-fe4e073d4f7c41bfb78764f9e30563ab"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-57cb2e5e0fe14bacbe8da4b9d09ca5db.xml#id-57cb2e5e0fe14bacbe8da4b9d09ca5db"/>
+</archimate:AssociationRelationship>

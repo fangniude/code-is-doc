@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="包含"
+    id="id-0ad99468e48d461aad96ebc8489bf0ad">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c7136f69a842499199e43110144e18a3.xml#id-c7136f69a842499199e43110144e18a3"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-845df8cdacdb477fba68f90349c48d12.xml#id-845df8cdacdb477fba68f90349c48d12"/>
+</archimate:AssociationRelationship>
